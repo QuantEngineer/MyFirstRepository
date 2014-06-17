@@ -1,0 +1,8 @@
+
+
+Hi you bloody test, it's your turn now!!!
+
+1. you can not commit with any file "untracked", i.e. if some files are there and not moved to staging are
+	or any changes in current file not "added" to stagin area
+
+kghjkhhgkjhkhjkhhkjh
